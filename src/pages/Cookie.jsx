@@ -32,13 +32,13 @@ const Cookie = () => {
 			<img src='./media/cookie.jpg' alt='cookie image' class = "cookie__img" />
 			<div class='content'>
 				<header>Cookies Consent</header>
-				<p>Este site usa cookies para garantir que tenha a melhor experiência a utilizar o nosso site.</p>
+				<p>This website uses cookies to ensure you get the best experience on our website</p>
 				<div class='buttons'>
 					<button onClick={setCookie} class='item'>
-						Quero continuar
+						Agree
 					</button>
 					<a href='#' class='item'>
-						Saber mais
+						Know more
 					</a>
 				</div>
 			</div>
